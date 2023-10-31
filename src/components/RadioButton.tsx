@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import {Customer} from "../App";
 
 const RadioLabel = styled.label`
   display: block;
